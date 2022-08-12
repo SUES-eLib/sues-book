@@ -43,10 +43,11 @@ export default hopeTheme({
        * Using Giscus
        */
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      repo: "SUES-eLib/sues-book",
+      repoId: "R_kgDOHy8Ubw",
+      category: "Comment",
+      categoryId: "DIC_kwDOHy8Ub84CQw3D",
+      mapping: "pathname"
 
       /**
        * Using Twikoo
